@@ -1,2 +1,2 @@
 # DL-Y4S1-group-project
-Pothole Detection - Unsupervised Learning
+Pothole Detection - Supervised Learning
